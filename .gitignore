@@ -1,0 +1,47 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Python bytecode / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Project specific
+output/
+*.md
+
+# Logs
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+output
+output/**
+output/
